@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F5F7DCBB-8FDD-EEF8-EA9C-84FC11C3824F}|">
+  <MonoDevelop.Ide.ItemProperties.VuforiaEditorScripts PreferredExecutionTarget="f6fc16e7-ad79-4dfc-bbb4-e021cfe1d084" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Vuforia/Scripts/buttonScript.cs">
+    <Files>
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="153" Column="10" />
+      <File FileName="Assets/Vuforia/Scripts/VuforiaScripts.asmdef" />
+      <File FileName="Assets/chromakeyShader.shader" Line="1" Column="24" />
+      <File FileName="Assets/Vuforia/Scripts/buttonScript.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ES3_AR_project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Vuforia" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="buttonScript.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
